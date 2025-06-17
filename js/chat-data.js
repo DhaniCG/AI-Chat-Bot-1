@@ -2,7 +2,7 @@ const chatData = [
   "Hi 👋, I'm Tania from the Flex Benefits Center.",
   "Want to check if you qualify for the Medicare Flex Card worth up to $2,880? 💳",
   {
-    options: ["Yes", "No"],
+    options: ["Yes"],
     answers: ["Great! Let's check your eligibility..."]
   },
   "Are you currently enrolled in Medicare Part A or B?",
